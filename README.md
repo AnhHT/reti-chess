@@ -1,3 +1,11 @@
+# Roadmap
+## Update with latest version
+### Nodejs 7.x
+### React 15.x
+### Redux, Redux-sagas
+
+## Include react-native version
+
 Reti Chess
 ==========
 
